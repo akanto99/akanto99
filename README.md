@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Nahid Hassan Akanto</h1>
 <h3 align="center">A passionate devexperts for Flutter android/iOS development from Bangladesh</h3>
 
-<im align=“right” alt=“coding” width=“400” src=“https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0”>
+<im align=“right” alt=“coding” width=“400” src=“https://github.com/user-attachments/assets/1fbda135-c8da-4583-9da2-b1a364fa36ac”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanto99&label=Profile%20views&color=0e75b6&style=flat" alt="akanto99" /> </p>
 
