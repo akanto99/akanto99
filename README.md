@@ -3,7 +3,8 @@
 
 <br/>
 
-<img align="right" alt="coding" width="300" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1732147200&v=beta&t=5yAfZy4AIp4-L_E-dHjbbXIqmhslG0EjKOxemXF-7Bo">
+<img align="right" alt="coding" width="300"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akanto99&label=Profile%20views&color=0e75b6&style=flat" alt="akanto99" />
@@ -84,15 +85,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akanto99&show_icons=true&locale=en&layout=compact" alt="akanto99" />
+  <img height="165"
+  src="https://github-readme-stats.vercel.app/api?username=akanto99&show_icons=true&locale=en" />
+  
+  <img height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=akanto99&layout=compact&locale=en" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akanto99&show_icons=true&locale=en" alt="akanto99" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akanto99&" alt="akanto99" />
+  <img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=akanto99" />
 </p>
 
 <br/>
