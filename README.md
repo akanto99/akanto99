@@ -17,8 +17,9 @@ src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code
 - 💼 Currently working at **Labfry Technology**
 - 🔭 Currently working on **Dinmajur App**
 - 🌱 Currently learning **Node.js, MongoDB & Laravel**
-- 👨‍💻 Portfolio & Projects: **https://github.com/akanto99**
-- 📫 Email: **akanto.pen@gmail.com**
+- 👨‍💻 Portfolio: **https://akanto.vercel.app/**
+- 💻 GitHub Projects: **https://github.com/akanto99**
+- 📫 Email: **akanto.appdev@gmail.com**
 - ⚡ Fun fact: **I am Funny 😄**
 
 <br/>
