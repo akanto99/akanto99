@@ -21,6 +21,10 @@
 - 📫 Email: **akanto.appdev@gmail.com**
 - ⚡ Fun fact: **I am Funny 😄**
 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&section=header" width="50%" height="2"/>
+</p>
+
 <br/>
 
 ## 🌐 Connect with me
