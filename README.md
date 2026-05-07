@@ -11,7 +11,9 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+<h2>🧑‍💻 About Me</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&section=header" width="50%" height="2"/>
 
 - 💼 Currently working at **Labfry Technology**
 - 🔭 Currently working on **Dinmajur App**
@@ -21,13 +23,9 @@
 - 📫 Email: **akanto.appdev@gmail.com**
 - ⚡ Fun fact: **I am Funny 😄**
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&section=header" width="50%" height="2"/>
-</p>
-
 <br/>
 
-## 🌐 Connect with me
+<h2>🌐 Connect with me</h2>
 
 <div align="center">
 
@@ -40,7 +38,7 @@
 
 <br/>
 
-## 🛠️ Languages and Tools
+<h2>🛠️ Languages and Tools</h2>
 
 <div align="center">
 
@@ -57,7 +55,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
