@@ -1,32 +1,27 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Md. Nahid Hassan Akanto</h1>
+<h3 align="center">🚀 Flutter Mobile Application Developer | Android & iOS | Bangladesh 🇧🇩</h3>
 
-# Hi 👋, I'm Md. Nahid Hassan Akanto
+<br/>
 
-### 🚀 Flutter Mobile Application Developer | Android & iOS | Bangladesh 🇧🇩
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<img src="https://komarev.com/ghpvc/?username=akanto99&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=akanto99&label=Profile%20views&color=0e75b6&style=flat" alt="akanto99" />
+</p>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
-
-</div>
-
----
+<br/>
 
 ## 🧑‍💻 About Me
 
-```dart
-class Akanto {
-  String name     = "Md. Nahid Hassan Akanto";
-  String role     = "Flutter Mobile App Developer";
-  String company  = "Labfry Technology";
-  String project  = "Dinmajur App";
-  List   learning = ["Node.js", "MongoDB", "Laravel"];
-  String email    = "akanto.appdev@gmail.com";
-  bool   funny    = true;
-}
-```
+- 💼 Currently working at **Labfry Technology**
+- 🔭 Currently working on **Dinmajur App**
+- 🌱 Currently learning **Node.js, MongoDB & Laravel**
+- 👨‍💻 Portfolio: **https://akanto.vercel.app/**
+- 💻 GitHub Projects: **https://github.com/akanto99**
+- 📫 Email: **akanto.appdev@gmail.com**
+- ⚡ Fun fact: **I am Funny 😄**
 
----
+<br/>
 
 ## 🌐 Connect with me
 
@@ -39,7 +34,7 @@ class Akanto {
 
 </div>
 
----
+<br/>
 
 ## 🛠️ Languages and Tools
 
@@ -56,7 +51,7 @@ class Akanto {
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -78,6 +73,7 @@ class Akanto {
 <div align="center">
 
 ### ✨ Thanks for visiting my profile! ✨
+
 ⭐ Star some repositories if you find them interesting!
 
 </div>
