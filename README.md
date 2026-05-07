@@ -11,9 +11,7 @@
 
 <br/>
 
-<h2>🧑‍💻 About Me</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&section=header" width="50%" height="2"/>
+## 🧑‍💻 About Me
 
 - 💼 Currently working at **Labfry Technology**
 - 🔭 Currently working on **Dinmajur App**
@@ -25,7 +23,7 @@
 
 <br/>
 
-<h2>🌐 Connect with me</h2>
+## 🌐 Connect with me
 
 <div align="center">
 
@@ -38,7 +36,7 @@
 
 <br/>
 
-<h2>🛠️ Languages and Tools</h2>
+## 🛠️ Languages and Tools
 
 <div align="center">
 
@@ -55,7 +53,7 @@
 
 <br/>
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
 
