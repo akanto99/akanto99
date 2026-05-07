@@ -1,43 +1,83 @@
-<h1 align="center">Hi 👋, I'm Md. Nahid Hassan Akanto</h1>
-<h3 align="center">🚀 Flutter Mobile Application Developer | Android & iOS | Bangladesh 🇧🇩</h3>
-<br/>
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akanto99&label=Profile%20views&color=0e75b6&style=flat" alt="akanto99" />
-</p>
-<br/>
+<div align="center">
+
+# Hi 👋, I'm Md. Nahid Hassan Akanto
+
+### 🚀 Flutter Mobile Application Developer | Android & iOS | Bangladesh 🇧🇩
+
+<img src="https://komarev.com/ghpvc/?username=akanto99&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+
+</div>
+
+---
 
 ## 🧑‍💻 About Me
-- 💼 Currently working at **Labfry Technology**
-- 🔭 Currently working on **Dinmajur App**
-- 🌱 Currently learning **Node.js, MongoDB & Laravel**
-- 👨‍💻 Portfolio: **https://akanto.vercel.app/**
-- 💻 GitHub Projects: **https://github.com/akanto99**
-- 📫 Email: **akanto.appdev@gmail.com**
-- ⚡ Fun fact: **I am Funny 😄**
 
-<br/>
+```dart
+class Akanto {
+  String name     = "Md. Nahid Hassan Akanto";
+  String role     = "Flutter Mobile App Developer";
+  String company  = "Labfry Technology";
+  String project  = "Dinmajur App";
+  List   learning = ["Node.js", "MongoDB", "Laravel"];
+  String email    = "akanto.appdev@gmail.com";
+  bool   funny    = true;
+}
+```
+
+---
 
 ## 🌐 Connect with me
 
-| [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/akanto) | [![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/nahid_hassan_akanto) | [![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/akanto99) |
-|---|---|---|
+<div align="center">
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanto)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nahid_hassan_akanto)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akanto99)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://akanto.vercel.app/)
+
+</div>
+
+---
 
 ## 🛠️ Languages and Tools
 
-| [![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev) | [![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://dart.dev) | [![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/) | [![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org) | [![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/) | [![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)](https://laravel.com/) | [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) | [![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com) |
-|---|---|---|---|---|---|---|---|
+<div align="center">
 
-<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akanto99&show_icons=true&locale=en&layout=compact" alt="akanto99" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=akanto99&show_icons=true&locale=en" alt="akanto99" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akanto99&" alt="akanto99" /></p>
-
-<br/>
+</div>
 
 ---
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akanto99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akanto99&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akanto99&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+⭐ Star some repositories if you find them interesting!
+
+</div>
